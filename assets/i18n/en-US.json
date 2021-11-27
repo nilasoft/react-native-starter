@@ -1,0 +1,38 @@
+{
+  "translation": {
+    "appName": "My App",
+    "update": "Update",
+    "later": "Later",
+    "updateMessage": "A new version of the application is available. Please update to continue...",
+    "language": "Language",
+    "home": "Home",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "preferences": "Preferences",
+    "empty": "Empty!",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "hide": "Hide",
+    "close": "Close",
+    "english": "English",
+    "persian": "Persian",
+    "theme": "Theme",
+    "auto": "Automatic",
+    "light": "Light",
+    "dark": "Dark",
+    "uptime": "Up time: {{timer}} (seconds)",
+    "blog": {
+      "blog": "Blog",
+      "users": "Users",
+      "posts": "Posts",
+      "comments": "Comments",
+      "albums": "Albums",
+      "photos": "Photos",
+      "todos": "Todos",
+      "user": "User"
+    }
+  }
+}

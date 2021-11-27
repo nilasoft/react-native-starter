@@ -1,0 +1,38 @@
+{
+  "translation": {
+    "appName": "اپ من",
+    "update": "بروزرسانی",
+    "later": "بعداً",
+    "updateMessage": "یک نسخه جدید از برنامه موجود است. لطفا برای ادامه بروزرسانی کنید...",
+    "language": "زبان",
+    "home": "خانه",
+    "login": "ورود",
+    "register": "ثبت نام",
+    "logout": "خروج",
+    "preferences": "تنظیمات",
+    "empty": "موردی وجود ندارد!",
+    "username": "نام کاربری",
+    "password": "رمز عبور",
+    "submit": "تایید",
+    "cancel": "لغو",
+    "hide": "پنهان",
+    "close": "بستن",
+    "english": "انگلیسی",
+    "persian": "فارسی",
+    "theme": "پوسته",
+    "auto": "خودکار",
+    "light": "روشن",
+    "dark": "تیره",
+    "uptime": "زمان اجرا: {{timer}} (ثانیه)",
+    "blog": {
+      "blog": "بلاگ",
+      "users": "کاربران",
+      "posts": "پست ها",
+      "comments": "کامنت ها",
+      "albums": "آلبوم ها",
+      "photos": "عکس ها",
+      "todos": "وظایف",
+      "user": "کاربر"
+    }
+  }
+}
